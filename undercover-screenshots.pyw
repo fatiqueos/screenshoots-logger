@@ -22,7 +22,7 @@ gerekli_paketler = ['discord-webhook', 'pyscreenshot', 'requests']
 paketleri_kontrol_et_ve_kur(gerekli_paketler)
 
 # Discord Webhook URL
-webhook_url = 'https://discord.com/api/webhooks/1223566913855029248/maas3_UnV8vekXVMblyl-HjpNdKhIu0jX6-6oc19I5YW8WcxyUDoFuZR8mqjklLihix2'
+webhook_url = 'URL'
 
 # Klasörü kontrol et ve oluştur
 ekran_goruntuleri_klasoru = 'ekran_goruntuleri'
