@@ -29,5 +29,17 @@ Kullanılan Kütüphaneler
 
 Terminal veya komut istemcisinde aşağıdaki komutu çalıştırarak programı başlatın:
 
+python screnshoots.py komut satırı üzerinde çalışır:
+
+Bu durumda, screnshoots.py adlı Python dosyası doğrudan komut satırından çalıştırılabilir. Örneğin, terminal veya komut istemcisinde şu komutu kullanarak çalıştırabilirsiniz:
 
 python screnshoots.py
+
+Bu komut, screnshoots.py dosyasını çalıştırır ve ekran görüntüsü alma işlemini başlatır. Program, belirli aralıklarla ekran görüntüsü alacak ve Discord'a gönderecektir.
+python undercover-screnshoots.py görünmez bir komut satırı üzerinde çalışır:
+
+Bu durumda, undercover-screnshoots.py adlı Python dosyası, kullanıcıya görünmez şekilde (arka planda) çalışır. Bu tür bir işlem genellikle bir arka plan görevi veya bir betik tarafından gerçekleştirilir. Örneğin, bu tür bir betiği bir işletim sistemi zamanlayıcısı veya başka bir otomasyon aracılığıyla planlanabilir.
+
+python undercover-screnshoots.py
+
+Bu komut, undercover-screnshoots.py dosyasını çalıştırır. Bu dosya, genellikle kullanıcıya herhangi bir çıktı veya görsel sunmaz, yani "görünmez" olarak çalışır. Bu dosyanın hangi senaryoda kullanılacağına bağlı olarak, gerekli planlamayı veya çağrıyı yapmanız gerekecektir.
